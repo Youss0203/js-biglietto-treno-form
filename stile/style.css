@@ -1,0 +1,36 @@
+.container{
+    width: 70%;
+    margin: 0 auto;
+    background-color: bisque;
+    padding: 2rem 0;
+}
+
+.d-flex{
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+input{
+    padding: 1rem 2rem;
+    width: calc(100% / 5 - 1rem);
+    margin: 0 0.5rem;
+    
+}
+
+.flex{
+    display: flex;
+}
+.container-ticket{
+    width: 70%;
+    margin: 0 auto;
+    background-color: bisque;
+}
+
+.m-top{
+    margin-top: 2rem;
+}
+.image{
+    margin-right:5rem;
+}

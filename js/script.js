@@ -14,6 +14,11 @@ if(userAge > 18){
     ((prezzoBiglietto*53.27)/100)
 }
 
+
 console.log(parseFloat(prezzoBiglietto.toFixed(2)))
+
+
+const Biglietto = document.getElementById("my-ticket")
+         document.getElementById("price").innerText = prezzoBiglietto.toFixed(2);
 
 })
